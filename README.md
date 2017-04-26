@@ -23,7 +23,7 @@ pip install kflogs
 # Usage
 
 #### Sample Code
-```sh
+```python
 import logging
 import kflogs
 
